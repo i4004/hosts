@@ -3,17 +3,18 @@
 	"displayName": "Hosts Language",
 	"description": "Syntax colors for hosts file.",
 	"version": "1.2.0",
-	"publisher": "tommasov",
+	"publisher": "Alexanderius",
+	"license": "LGPLv3",
 	"icon": "icon.png",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tommasov/hosts"
+		"url": "https://github.com/i4004/hosts"
 	},
 	"engines": {
 		"vscode": "^1.0.0"
 	},
 	"categories": [
-		"Languages"
+		"Programming Languages"
 	],
 	"contributes": {
 		"languages": [
@@ -36,10 +37,5 @@
 				"path": "./syntaxes/hosts.tmLanguage"
 			}
 		]
-	},
-	"__metadata": {
-		"id": "aed924ee-6b7f-4239-bd31-9211a1e7e448",
-		"publisherId": "7291366c-e5bc-4b4e-a995-2e52f3832df2",
-		"publisherDisplayName": "Tommaso Vietina"
 	}
 }

@@ -1,8 +1,5 @@
-# Change Log
-All notable changes to the "hosts" extension will be documented in this file.
+# Changelog
 
+## [1.0] - 2023-11-18
 
-## [Released]
-- Initial release
-- Added icon
-- 01/08/2018 Fixed regular expression
+- Initial version

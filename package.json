@@ -1,8 +1,8 @@
 {
-	"name": "hosts",
+	"name": "language-hosts",
 	"displayName": "Hosts Language",
-	"description": "Syntax colors for hosts file.",
-	"version": "1.2.0",
+	"description": "Syntax colors support for hosts file.",
+	"version": "1.0.0",
 	"publisher": "Alexanderius",
 	"license": "LGPLv3",
 	"icon": "icon.png",
@@ -15,6 +15,9 @@
 	},
 	"categories": [
 		"Programming Languages"
+	],
+	"keywords": [
+		"hosts"
 	],
 	"contributes": {
 		"languages": [
